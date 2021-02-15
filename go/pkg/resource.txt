@@ -1,0 +1,4 @@
+This is a resource file.
+That is not consumed by this code.
+Maybe it gets read at runtime.
+Sometimes...
